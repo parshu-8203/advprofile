@@ -123,8 +123,7 @@ hr
   border-color: #EAF6F6;
 }
 .contact{
-  margin-top: 100px;
   line-height: 2;
   width:50%;
-  margin:0 auto;
+  margin:100px auto 0 auto;
 }
