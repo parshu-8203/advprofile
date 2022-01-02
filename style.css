@@ -1,0 +1,128 @@
+.topcontainer {
+  background-color : #C2FFF9;
+  padding-top:100px;
+}
+body
+{
+  margin: 0;
+  text-align: center;
+  color:#282828;
+}
+p
+{
+  font-family: 'EB Garamond', serif;
+  font-size: 20px;
+  font-weight: 400;
+}
+h1
+{
+  font-size: 4rem;
+  margin : 0 auto 0 auto;
+  font-family:'Dancing Script', cursive;
+  color:#66BFBF;
+}
+h2
+{
+  font-family: 'Laila', sans-serif;
+  color:#66BFBF;
+
+}
+.profile
+{
+  width: 50%;
+  margin: 100px auto;
+}
+.skills
+{
+  width: 50%;
+  margin:100px auto 100px auto;
+  text-align: left;
+  line-height: 1.5;
+}
+
+.pro
+{
+  float: left;
+  margin-right: 30px;
+}
+.web
+{
+  float: right;
+  margin-left : 30px;
+}
+#pp
+{
+  font-size: 2.5rem;
+  margin-top: 0;
+  color:#66BFBF;
+  font-weight:normal;
+}
+.design
+{
+  padding: 10px;
+}
+.bottomcontainer
+{
+  margin-top: 40px;
+  background-color: aqua;
+  padding: 40px;
+}
+.images
+{
+  width:598px;
+  height: 356px;
+}
+.firstcloud
+{
+  position:absolute;
+  right:250px;
+  top:50px;
+}
+.secondcloud
+{
+  position: absolute;
+  left:220px;
+}
+h3
+{
+  font-family:'Didact Gothic', sans-serif;
+  color:#11999E;
+}
+#copyrights
+{
+  padding: 10px;
+  margin-bottom: 0px;
+}
+a
+{
+  text-decoration: none;
+}
+.btn
+{
+    background:#11999E;
+    color:white;
+    font-size: 20px;
+    border:1px solid black;
+    border-radius: 15px;
+    padding: 5px 10px 5px 10px;
+}
+.btn:hover
+{
+  background:black;
+  text-decoration: none;
+}
+.footer-link
+{
+  margin:20px;
+}
+hr
+{
+  width: 10%;
+  border-style: dotted none none none;
+  border-width: 5px;
+  border-color: #EAF6F6;
+}
+.contact{
+  margin-top: 100px;
+  line-height: 2;
+}
